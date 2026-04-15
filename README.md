@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">FT-1 @ KERNEL_SPACE</h1>
+<h1 align="center">🛡️ FT-1 @ KERNEL_SPACE</h1>
 <p align="center">
   <b>Systems Architect • Security Researcher • Infrastructure Hardening • Network Design</b>
 </p>
@@ -11,93 +11,61 @@
 
 ---
 
-## `whoami`
+## 🌑 `whoami`
 
 ```bash
 $ whoami
-FT-1
-Role: Systems Architect / Security Researcher
-Focus: Offensive Security, Infrastructure Hardening, Network Architecture
-Mindset: Build resilient systems. Break assumptions. Automate defense.
-Status: Watching the kernel.
+> FT-1
+> Role: Systems Architect / Security Researcher
+> Focus: Offensive Security, eBPF Defense, Network Logic
+> Status: Monitoring Kernel Traffic... 📡
 ```
 
-## `mission`
+## ⚡ `mission`
 
-I design and secure systems that must stay fast, reliable, and hard to compromise.
+I design and secure high-performance systems that remain resilient under pressure. My work focuses on **FALX-AI**, an offline-first security platform combining **kernel-level filtering (XDP)** with **local AI analysis** to eliminate cloud dependencies and latency. 🧠
 
-Current focus:
-- Building **FALX-AI**, an offline-first security defense platform
-- Combining **kernel-level packet filtering** with **local AI-assisted analysis**
-- Exploring low-latency detection using **eBPF**, **XDP**, and Linux-native tooling
+## 🔍 `intel`
 
-## `background`
+- ⚔️ **Operations:** Veteran of high-stakes **CTF** competitions.
+- 🎤 **Presence:** Participant in **Black Hat** security summits and industry-leading briefings.
+- 📜 **Credentials:** **CCNA** Certified with a focus on hardened network infrastructure.
+- 🛠️ **Expertise:** Deep-dive systems programming, network security, and defensive automation.
 
-- Active participant in **CTF** competitions
-- Speaker / attendee in **Black Hat** security events and advanced industry sessions
-- Certified in **CCNA** and additional globally recognized technical credentials
-- Experience across systems, networks, and security automation
-
-## `technical stack`
+## 🛠️ `technical stack`
 
 ```json
 {
   "languages": ["Rust", "Python", "C++", "Bash"],
-  "systems": ["Linux", "eBPF", "XDP", "Kernel Modules"],
-  "networking": ["Routing", "Switching", "Packet Analysis", "TCP/IP"],
-  "infrastructure": ["Docker", "Git", "SQLite", "Automation"],
-  "security": ["Hardening", "Detection Engineering", "Threat Analysis", "CTF"]
+  "kernel_tech": ["eBPF", "XDP", "Linux Modules", "Hardening"],
+  "networking": ["TCP/IP", "Packet Analysis", "Routing/Switching"],
+  "infrastructure": ["Docker", "Linux Admin", "SQLite", "Git"],
+  "ops": ["Automated Defense", "Threat Intel", "System Auditing"]
 }
 ```
 
-## `current protocol`
+## 🛡️ `featured project: FALX-AI`
 
-### **FALX-AI**
-An offline-first cyber defense system designed for high-speed environments.
+A next-generation, **100% Offline-First** cyber defense system. 
+- **Performance:** Sub-millisecond packet inspection via the Linux kernel.
+- **Privacy:** Local AI analysis with zero external data leakage.
+- **Defense:** Practical, production-ready infrastructure protection. 🚀
 
-Key ideas:
-- Sub-millisecond packet inspection
-- Kernel-adjacent filtering pipeline
-- Local analysis without cloud dependency
-- Practical defense for modern infrastructure
+## 📋 `principles`
 
-## `featured strengths`
-
-- Security research with a strong systems foundation
-- Deep interest in performance, reliability, and hardened design
-- Comfortable moving between kernel concepts, network layers, and automation
-- Focused on building tools that are useful in production, not just in labs
-
-## `highlights`
-
-- **Black Hat** participation
-- Competitive **CTF** experience
-- **CCNA** certified
-- Strong background in **Linux**, **networking**, and **systems programming**
-
-## `tools I use`
-
-- Git / GitHub
-- Linux
-- Docker
-- Python
-- Rust
-- Bash
-- C++
-- eBPF / XDP
-- Packet analysis tooling
-- Security automation workflows
-
-## `principles`
-
-- Keep it lean
-- Measure before optimizing
-- Assume failure and design for recovery
-- Prefer local, auditable, deterministic systems
-- Secure by default
+- 💻 **Build Lean:** No bloat, just performance.
+- ⚖️ **Assume Breach:** Design for recovery and resilience.
+- 🔒 **Local First:** Auditable, deterministic, and sovereign systems.
+- 🛡️ **Secure by Default:** Hardening starts at the architecture level.
 
 ---
 
-<p align="center">
-  <b>Build clean. Defend hard. Stay invisible to noise.</b>
-</p>
+<div align="center">
+  <h3>📡 Establishing Connection</h3>
+  <p><b>Join the C2 Server for updates and support:</b></p>
+  <a href="https://discord.gg/jmG7yK9J">
+    <b>[ DISCORD COMMAND CENTER ]</b>
+  </a>
+  <br><br>
+  <i>Build clean. Defend hard. Stay invisible to noise.</i>
+</div>
